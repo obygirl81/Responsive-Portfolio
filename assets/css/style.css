@@ -343,8 +343,6 @@ body {
 
   .auth-image {
     transform: rotate(90deg)
-    position: static;
-    width: 50%;
   }
 
   .sidebar {
