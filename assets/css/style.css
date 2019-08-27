@@ -243,7 +243,6 @@ body {
   .auth-image {
     width: 200px;
     height: 250px;
-    /* transform: rotate(90deg); */
   }
 
   .work {
@@ -342,9 +341,7 @@ body {
     margin-bottom: 0px;
   }
 
-  .auth-image {
-    transform: rotate(90deg)
-  }
+
 
   .sidebar {
     position: static;
