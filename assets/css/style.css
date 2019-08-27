@@ -3,7 +3,7 @@ body {
     font-size: 18px;
     line-height: 34px;
     color: #777777;
-    background: url("../images/concrete_seamless.png");
+    background: url(../images/background.jpg);
   }
   
   * {
@@ -58,8 +58,8 @@ body {
     width: 100%;
     margin: 0 0 30px;
     overflow: auto;
-    color: #ffffff;
-    background: #ffffff;
+    color: green;
+    background: lavender;
     border-bottom: 2px solid #cccccc;
   }
   
@@ -122,6 +122,7 @@ body {
   #main-container {
     padding-top: 130px;
     min-height: calc(100vh - 70px);
+    background: url(../images/background.jpg);
   }
   
   .main-section {
@@ -362,5 +363,11 @@ body {
   
 }
 
-
-
+.icon{
+width: 40px;
+height: 40px;
+  }
+  .link-right {
+    font-size: 20px; 
+    float: right!important; 
+}
