@@ -1,6 +1,6 @@
 # Responsive-Portfolio
 
-A simple professional portfolio site with links to the projects that I have completed
+A simple professional portfolio site with links to the projects that I have completed.
 Technologies/Libraries/Frameworks Used are:
 •	HTML
 •	CSS
