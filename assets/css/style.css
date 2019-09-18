@@ -151,6 +151,7 @@ body {
   
   .work img {
     width: 100%;
+    height: auto;
     border: 0 none;
     opacity: 0.8;
   }
@@ -169,6 +170,11 @@ body {
     border-bottom: 0;
   }
   
+  .work {
+    width: 100%;
+    height: auto;
+    vertical-align: middle;
+  }
   
   /* contact page */
   
