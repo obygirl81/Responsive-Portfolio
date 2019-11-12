@@ -92,10 +92,15 @@ body {
     margin-left: 15px;
     line-height: 18px;
     color: #999;
+    font-size: 20px;
     text-decoration: none;
     border-left: 1px solid #efefef;
   }
   
+  p a {
+    font-size: 18px;
+  }
+
   nav a:first-child {
     border-left: 0 none;
   }
