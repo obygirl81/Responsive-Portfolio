@@ -50,6 +50,10 @@ body {
     font-size: 22px;
   }
   
+  a {
+    font-size: 14px;
+  }
+
   /* header */
   
   #masthead {
