@@ -419,3 +419,73 @@ height: 40px;
     font-size: 20px; 
     float: right!important; 
 }
+
+@media screen and (max-width: 480px) {
+  body { 
+    position: static;
+   }
+
+   .container {
+    position: static;
+    width: 480px;
+    margin: 0;
+    color: black;
+   }
+
+   #logo {
+    position: static;
+    width: 480px;
+    margin: 0;
+    color: black;
+  }
+
+  nav {
+    position: static;
+    width: 480px;
+    margin-top: 10px; 
+    margin-bottom: 10px;
+    padding-left: 110px;
+    text-align: center;
+  }
+
+  nav a {
+    padding: 0px 30px;
+  }
+
+  .main-section {
+    position: static;
+    width: 440px;
+    margin: 30px;
+    margin-bottom: 0px;
+  }
+  .auth-image {
+    position: static;
+    width: auto;
+  }
+
+
+  .sidebar {
+    position: static;
+    float: left;
+    width: 480px;
+    margin: 30px;
+  }
+
+  .work {
+    width: 100%;
+  }
+
+  footer {
+    width: 480px;
+  }
+  
+}
+
+.icon{
+width: 35px;
+height: 35px;
+  }
+  .link-right {
+    font-size: 24px; 
+    float: right!important; 
+}
