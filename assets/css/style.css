@@ -355,7 +355,10 @@ body {
     margin: 33px;
     margin-bottom: 0px;
   }
-
+  .auth-image {
+    position: static;
+    width: 50%;
+  }
 
 
   .sidebar {
